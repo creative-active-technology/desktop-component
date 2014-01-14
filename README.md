@@ -1,4 +1,4 @@
 desktop-component
 =================
 
-Simple Destop Component
+Simple Dekstop Component
